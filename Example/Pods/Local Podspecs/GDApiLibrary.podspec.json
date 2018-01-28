@@ -1,0 +1,22 @@
+{
+  "name": "GDApiLibrary",
+  "version": "0.1.0",
+  "summary": "Gedit API GDApiLibrary.",
+  "description": "Gedit API Library in objectivec used for gedit-client-ios.",
+  "homepage": "https://github.com/conanchen/gedit-api-grpc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "conanchen": "conan8chan@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/conanchen/gedit-api-grpc.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GDApiLibrary/Classes/**/*"
+}

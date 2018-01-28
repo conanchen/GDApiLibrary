@@ -1,0 +1,6 @@
+framework module Pods_GDApiLibrary_Example {
+  umbrella header "Pods-GDApiLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

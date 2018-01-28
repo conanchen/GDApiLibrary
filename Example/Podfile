@@ -1,0 +1,11 @@
+#use_frameworks!
+
+target 'GDApiLibrary_Example' do
+  pod 'GDApiLibrary', :path => '../'
+
+  target 'GDApiLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

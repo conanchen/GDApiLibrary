@@ -1,0 +1,6 @@
+framework module GDApiLibrary {
+  umbrella header "GDApiLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
