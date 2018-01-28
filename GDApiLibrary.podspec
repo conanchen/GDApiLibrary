@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GDApiLibrary'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'Gedit API GDApiLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
         Gedit API Library in objectivec used for gedit-client-ios.
                        DESC
 
-  s.homepage         = 'https://github.com/conanchen/gedit-api-grpc'
+  s.homepage         = 'https://github.com/conanchen/GDApiLibrary'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'conanchen' => 'conan8chan@yahoo.com' }
-  s.source           = { :git => 'https://github.com/conanchen/gedit-api-grpc.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/conanchen/GDApiLibrary.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
